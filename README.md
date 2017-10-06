@@ -1,7 +1,7 @@
 # RNG-ReadingList
 This is a reading list for people who are interested in random number generators.
 
-Now it is under the maintance from Vladimir Rozic and Bohan Yang
+Now it is under the maintance from [Vladimir Rožić](https://www.esat.kuleuven.be/cosic/vladimir-rozic/ "Vladimir's Homepage") and [Bohan Yang](https://www.esat.kuleuven.be/cosic/965-2/ "Bohan's Homepage")
 
 
 ## READING LIST:
