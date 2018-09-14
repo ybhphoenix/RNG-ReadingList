@@ -35,7 +35,7 @@ http://ieeexplore.ieee.org/document/1683753/
 [9] Md. Tauhidur Rahman, Kan Xiao, Domenic Forte, Xuhei Zhang, Jerry Shi and Mohammad Tehranipoor, _TI-TRNG: Technology Independent True Random Number Generator,_ Design Automation Conference (DAC 2014).
 https://dl.acm.org/citation.cfm?doid=2593069.2593236 
 
-
+[10] ES TRNG
 
 ### Attacks:
 
